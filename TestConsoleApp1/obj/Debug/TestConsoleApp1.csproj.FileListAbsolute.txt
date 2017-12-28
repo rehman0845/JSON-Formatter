@@ -1,0 +1,7 @@
+G:\rehman\test\programs\MVC\Console\TestConsoleApp1\bin\Debug\TestConsoleApp1.exe.config
+G:\rehman\test\programs\MVC\Console\TestConsoleApp1\bin\Debug\TestConsoleApp1.exe
+G:\rehman\test\programs\MVC\Console\TestConsoleApp1\bin\Debug\TestConsoleApp1.pdb
+G:\rehman\test\programs\MVC\Console\TestConsoleApp1\obj\Debug\TestConsoleApp1.csprojResolveAssemblyReference.cache
+G:\rehman\test\programs\MVC\Console\TestConsoleApp1\obj\Debug\TestConsoleApp1.csproj.CoreCompileInputs.cache
+G:\rehman\test\programs\MVC\Console\TestConsoleApp1\obj\Debug\TestConsoleApp1.exe
+G:\rehman\test\programs\MVC\Console\TestConsoleApp1\obj\Debug\TestConsoleApp1.pdb
