@@ -8,7 +8,7 @@ Ex:
 
 to 
   { 
-    "name":"John",
-    "age":31, 
-    "city":"New York" 
+    	"name":"John",
+    	"age":31, 
+    	"city":"New York" 
   }
